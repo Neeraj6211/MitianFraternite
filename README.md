@@ -2,7 +2,7 @@
 
 This repository is home to the codebase for "MitianFraternite", a bespoke social networking website specifically designed for our college community. This platform's primary goal is to enrich the daily experiences of our engineering journey. It connects students, faculty, and alumni via community interactions and blogging features.
 
-[MitianFraternite](https://mitainfraternite.onrender.com/).
+## WebsitePreview : [MitianFraternite](https://mitainfraternite.onrender.com/).
 
 ## Technologies Used
 
